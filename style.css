@@ -1,0 +1,12 @@
+body{
+    color:aqua;
+    background-size:cover;
+}
+.header{
+    width:100%;
+}
+canvas{
+    border-radius:10px;
+    box-shadow:10px 10px 10px #7492B9;
+    margin-top:30px;
+}
